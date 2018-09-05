@@ -29,8 +29,6 @@ c:\users\brian\source\repos\ass2test\ass2test\ground.cpp(25): warning C4244: 'ar
   HUD.cpp
 c:\users\brian\source\repos\ass2test\ass2test\hud.cpp(40): warning C4018: '<': signed/unsigned mismatch
   KeyManager.cpp
-  main.cpp
-c:\users\brian\source\repos\ass2test\ass2test\main.cpp(137): warning C4018: '<': signed/unsigned mismatch
   Messages.cpp
 c:\users\brian\source\repos\ass2test\ass2test\messages.cpp(239): warning C4018: '<': signed/unsigned mismatch
   Obstacle.cpp
@@ -42,5 +40,7 @@ c:\users\brian\source\repos\ass2test\ass2test\messages.cpp(239): warning C4018: 
 c:\users\brian\source\repos\ass2test\ass2test\vectormaths.cpp(123): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
   Vehicle.cpp
 c:\users\brian\source\repos\ass2test\ass2test\vehicle.cpp(11): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+c:\users\brian\source\repos\ass2test\ass2test\main.cpp(137): warning C4018: '<': signed/unsigned mismatch
   Generating Code...
   Ass2test.vcxproj -> C:\Users\brian\source\repos\Ass2test\Debug\Ass2test.exe
