@@ -155,7 +155,7 @@ void drawGoals()
 }
 
 void testDraw() {
-	/*
+	
 	glPushMatrix();
 	glTranslated(10, 0, 0);
 	glRotated(45, 0, 0, 1);
@@ -215,7 +215,7 @@ void testDraw() {
 	glEnd();
 
 	//static GLUquadric * circle = gluNewQuadric();
-	//gluDisk(circle, 0, 5, 20, 1);*/
+	//gluDisk(circle, 0, 5, 20, 1);
 
 void display() {
 	frameCounter++;
