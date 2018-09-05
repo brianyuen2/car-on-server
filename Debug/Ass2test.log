@@ -1,0 +1,46 @@
+﻿  Camera.cpp
+c:\users\brian\source\repos\ass2test\ass2test\camera.cpp(42): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\brian\source\repos\ass2test\ass2test\camera.cpp(43): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\brian\source\repos\ass2test\ass2test\camera.cpp(84): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\brian\source\repos\ass2test\ass2test\camera.cpp(215): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\brian\source\repos\ass2test\ass2test\camera.cpp(216): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\brian\source\repos\ass2test\ass2test\camera.cpp(217): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\brian\source\repos\ass2test\ass2test\camera.cpp(276): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\brian\source\repos\ass2test\ass2test\camera.cpp(282): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\brian\source\repos\ass2test\ass2test\camera.cpp(283): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\brian\source\repos\ass2test\ass2test\camera.cpp(354): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\brian\source\repos\ass2test\ass2test\camera.cpp(398): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\brian\source\repos\ass2test\ass2test\camera.cpp(399): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\brian\source\repos\ass2test\ass2test\camera.cpp(434): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\brian\source\repos\ass2test\ass2test\camera.cpp(439): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\brian\source\repos\ass2test\ass2test\camera.cpp(443): warning C4101: 'new_dest_dir': unreferenced local variable
+c:\users\brian\source\repos\ass2test\ass2test\camera.cpp(768): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\brian\source\repos\ass2test\ass2test\camera.cpp(769): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\brian\source\repos\ass2test\ass2test\camera.cpp(774): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\brian\source\repos\ass2test\ass2test\camera.cpp(775): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\brian\source\repos\ass2test\ass2test\camera.cpp(780): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\brian\source\repos\ass2test\ass2test\camera.cpp(781): warning C4305: '=': truncation from 'double' to 'float'
+  Frustum.cpp
+  Ground.cpp
+c:\users\brian\source\repos\ass2test\ass2test\ground.cpp(21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\brian\source\repos\ass2test\ass2test\ground.cpp(22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\brian\source\repos\ass2test\ass2test\ground.cpp(24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\brian\source\repos\ass2test\ass2test\ground.cpp(25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  HUD.cpp
+c:\users\brian\source\repos\ass2test\ass2test\hud.cpp(40): warning C4018: '<': signed/unsigned mismatch
+  KeyManager.cpp
+  main.cpp
+c:\users\brian\source\repos\ass2test\ass2test\main.cpp(137): warning C4018: '<': signed/unsigned mismatch
+  Messages.cpp
+c:\users\brian\source\repos\ass2test\ass2test\messages.cpp(239): warning C4018: '<': signed/unsigned mismatch
+  Obstacle.cpp
+  ObstacleManager.cpp
+  Quaternion.cpp
+  RemoteDataManager.cpp
+  Shape.cpp
+  VectorMaths.cpp
+c:\users\brian\source\repos\ass2test\ass2test\vectormaths.cpp(123): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Vehicle.cpp
+c:\users\brian\source\repos\ass2test\ass2test\vehicle.cpp(11): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Ass2test.vcxproj -> C:\Users\brian\source\repos\Ass2test\Debug\Ass2test.exe
