@@ -186,31 +186,6 @@ void testDraw() {
 	glEnd();
 	glPopMatrix();// SHAPE 2
 
-	glBegin(GL_QUADS);
-
-	glColor3d(1, 0, 0);
-	glVertex3f(0, 0, 0);
-	glVertex3f(0, 5, 0);
-	glVertex3f(5, 5, 0);
-	glVertex3f(5, 0, 0);
-
-	glVertex3f(0, 0, 5);
-	glVertex3f(0, 5, 5);
-	glVertex3f(5, 5, 5);
-	glVertex3f(5, 0, 5);
-
-	glColor3d(1, 1, 0);
-	glVertex3f(0, 0, 0);
-	glVertex3f(0, 0, 5);
-	glVertex3f(0, 5, 5);
-	glVertex3f(0, 5, 0);
-
-	glColor3d(1, 1, 1);
-	glVertex3f(5, 0, 0);
-	glVertex3f(5, 0, 5);
-	glVertex3f(5, 5, 5);
-	glVertex3f(5, 5, 0);
-
 
 	glEnd();
 
