@@ -1,4 +1,5 @@
 // ADDING TEST 
+// TEST @@@
 #include <iostream>
 #include <cstdlib>
 #include <cstdio>
@@ -154,7 +155,7 @@ void drawGoals()
 }
 
 void testDraw() {
-	/*
+	
 	glPushMatrix();
 	glTranslated(10, 0, 0);
 	glRotated(45, 0, 0, 1);
